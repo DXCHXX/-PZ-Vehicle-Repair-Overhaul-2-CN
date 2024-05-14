@@ -1,0 +1,5 @@
+Sandbox_CN = {
+    Sandbox_VehicleRepairOverhaul = "车辆维修大修模组",
+    
+    Sandbox_DisableVehicleSalvage = "禁用车辆拆解功能",
+}
